@@ -8,7 +8,7 @@
 - I spent 5 hours programming an email spam feature into the multi tool
 - Since batch couldnt add the mail spammer i needed to use a seperate file thats sends a pull request to github ._. have fun
 
--> Version 1.10.3
+-> Version 1.11.3
 
-- Newten will now catch more errors specifically when internet in unavailable
-- Newten will now tell you if you have node.js and python installed on startup (more will be added)
+- You now have the ability to send the last made email bomb
+- You now have the ability to ping the last pinged IP and ping the last logged IP
